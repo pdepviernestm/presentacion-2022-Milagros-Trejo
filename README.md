@@ -7,6 +7,9 @@
 - **Residencia:** Caballito, CABA
 - **Legajo:** 204.611-8
 
+### Un autorretrato ;)
+![Autorretrato](https://user-images.githubusercontent.com/82959873/162290125-4f794ed6-0617-4084-8bdb-dc45e3ddb9fd.JPG)
+
 ## *Sobre mí:* 
 
 - **Música favorita:** 
