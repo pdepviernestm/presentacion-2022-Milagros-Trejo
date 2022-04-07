@@ -1,5 +1,5 @@
 # Mi presentación - Milagros Trejo
----
+
 ## *Datos personales:* 
 
 - **Nombre completo:** Milagros Rocío Trejo
@@ -7,11 +7,15 @@
 - **Residencia:** Caballito, CABA
 - **Legajo:** 204.611-8
 
+---
+
 ### Mi foto 
 ![FOTOCV](https://user-images.githubusercontent.com/82959873/162291862-c7846740-a9d9-4571-876b-ee10ec794631.jpeg)
 
 ### ★ Y un autorretrato ★
 ![Autorretrato](https://user-images.githubusercontent.com/82959873/162290125-4f794ed6-0617-4084-8bdb-dc45e3ddb9fd.JPG)
+
+---
 
 ## *Sobre mí:* 
 
